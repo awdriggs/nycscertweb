@@ -2,7 +2,7 @@
 
 ## You had me at
 
-![Hellow World](gates.jpeg)
+![Hellow World](gates.jpg)
 
 ## Hello World
 
