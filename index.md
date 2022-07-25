@@ -1,3 +1,5 @@
+# Teaching CS 
+
 ## Programming
 - [Conway's Game of Life](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awdriggs/tree/master/programming/4/extra) - Java implementation of Conway's Game of Life, animated in the terminal.
 
