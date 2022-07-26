@@ -14,7 +14,7 @@ title: Teaching CS
 
 ![found!](imgs/success.gif)
 
-![not found](imgs/failure.gf)
+![not found](imgs/failure.gif)
 
 ## Data Structures
 - [Recursive Binary Search Animated](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awdriggs/tree/master/ds/Sorting/animated) - See how a recursive binary search steps through an array.
